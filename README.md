@@ -1,0 +1,1 @@
+# Patika-Veri-yapilari-ve-Algoritmalar-projeleri
